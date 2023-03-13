@@ -23,6 +23,7 @@ The main issue in this project, was the understanding of the framework. At the b
 
 To do this project, I used two courses :
 https://openclassrooms.com/fr/courses/7172076-debutez-avec-le-framework-django/7518336-mettez-a-jour-un-objet-modele-avec-un-modelform
+
 https://discord.com/channels/@me/1067797805965516830/1076570586765078609
 
 For the front-end, I used what I learned in my front-end classes.

@@ -27,3 +27,4 @@ https://openclassrooms.com/fr/courses/7172076-debutez-avec-le-framework-django/7
 https://discord.com/channels/@me/1067797805965516830/1076570586765078609
 
 For the front-end, I used what I learned in my front-end classes.
+For the login system, I used the courses on the Django website

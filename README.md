@@ -1,5 +1,6 @@
 
 #How to use the app
+
 To use the app, you have to go to http://127.0.0.1:8000/.
 You are then able to create an account or to log in.
 
